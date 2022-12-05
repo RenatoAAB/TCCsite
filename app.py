@@ -1,5 +1,4 @@
 import streamlit as st
-import librosa
 
 audio_file = open("./Pre-processamento/funk_22050.wav",'rb')
 funk22050 = audio_file.read()
